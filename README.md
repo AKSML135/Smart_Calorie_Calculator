@@ -4,6 +4,17 @@
 ## Tech Used - 
 - Streamlit (for entire UI)
 - Google Gemini pro vision model (to read image and generate output)
+## Gemini Pro Vision	Model  = {last updated	December 2023}
+- Model code ->	models/gemini-pro-vision
+# Model capabilities	
+- Input: text and images
+- Output: text
+- Can take multimodal inputs, text and image.
+- Can handle zero, one, and few-shot tasks.
+- Supported generation methods	generateContent
+- Input token limit	-> 12288
+- Output token limit ->	4096
+- Rate limit	-> 60 requests per minute
 
 ## Steps -
 - Click on upload button to upload the picture and write your prompt in text box provided
