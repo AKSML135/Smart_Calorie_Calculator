@@ -21,3 +21,5 @@
 - click on submit button to get the response
 
 ## Screenshot of UI - 
+![Uploading image.png…]()
+
