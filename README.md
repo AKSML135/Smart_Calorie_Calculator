@@ -21,5 +21,8 @@
 - click on submit button to get the response
 
 ## Screenshot of UI - 
-![Uploading image.png…]()
+![Alt text](output0.png)
 
+![Alt text](output1.png)
+
+![Alt text](output2.png)
